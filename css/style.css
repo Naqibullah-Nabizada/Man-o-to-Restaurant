@@ -57,3 +57,7 @@ footer {
     font-size: 2rem;
     padding: 1rem .7rem;
 }
+
+.social-media ul li{
+    list-style-type: none;
+}
